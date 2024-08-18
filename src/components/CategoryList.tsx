@@ -9,42 +9,42 @@ const CategoryList = () => {
       <div className="flex gap-4 md:gap-8">
         <Link href="/list?cat=test" className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
         <div className="relative bg-slate-100 w-full h-96">
-          <Image src="https://images.pexels.com/photos/230514/pexels-photo-230514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" fill sizes="20vw" className="object-cover">
+          <Image src="/tomate-3.jpg" alt="" fill sizes="20vw" className="object-cover">
           </Image>
         </div>
         <h1 className="mt-8 font-light text-cl tracking-wide"> Category Name</h1>
         </Link>
         <Link href="/list?cat=test" className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
         <div className="relative bg-slate-100 w-full h-96">
-          <Image src="https://images.pexels.com/photos/230514/pexels-photo-230514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" fill sizes="20vw" className="object-cover">
+          <Image src="/radi.jpg" alt="" fill sizes="20vw" className="object-cover">
           </Image>
         </div>
         <h1 className="mt-8 font-light text-cl tracking-wide"> Category Name</h1>
         </Link>
         <Link href="/list?cat=test" className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
         <div className="relative bg-slate-100 w-full h-96">
-          <Image src="https://images.pexels.com/photos/230514/pexels-photo-230514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" fill sizes="20vw" className="object-cover">
+          <Image src="/carotte.jpg" alt="" fill sizes="20vw" className="object-cover">
           </Image>
         </div>
         <h1 className="mt-8 font-light text-cl tracking-wide"> Category Name</h1>
         </Link>
         <Link href="/list?cat=test" className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
         <div className="relative bg-slate-100 w-full h-96">
-          <Image src="https://images.pexels.com/photos/230514/pexels-photo-230514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" fill sizes="20vw" className="object-cover">
+          <Image src="/chou.jpg" alt="" fill sizes="20vw" className="object-cover">
           </Image>
         </div>
         <h1 className="mt-8 font-light text-cl tracking-wide"> Category Name</h1>
         </Link>
         <Link href="/list?cat=test" className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
         <div className="relative bg-slate-100 w-full h-96">
-          <Image src="https://images.pexels.com/photos/230514/pexels-photo-230514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" fill sizes="20vw" className="object-cover">
+          <Image src="/oignon.jpg" alt="" fill sizes="20vw" className="object-cover">
           </Image>
         </div>
         <h1 className="mt-8 font-light text-cl tracking-wide"> Category Name</h1>
         </Link>
         <Link href="/list?cat=test" className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
         <div className="relative bg-slate-100 w-full h-96">
-          <Image src="https://images.pexels.com/photos/230514/pexels-photo-230514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" fill sizes="20vw" className="object-cover">
+          <Image src="/thym.jpg" alt="" fill sizes="20vw" className="object-cover">
           </Image>
         </div>
         <h1 className="mt-8 font-light text-cl tracking-wide"> Category Name</h1>

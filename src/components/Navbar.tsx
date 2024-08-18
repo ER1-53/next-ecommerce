@@ -10,7 +10,7 @@ const Navbar = () => {
                 {/* MOBILE */}
             <div className="h-full flex items-center justify-between md:hidden">
                 <Link href="/">
-                    <div className="text-2xl tracking-wide">LAMA</div>
+                    <div className="text-2xl tracking-wide">Dans Mon Panier</div>
                 </Link>
                 <Menu/>
             </div>
@@ -20,13 +20,13 @@ const Navbar = () => {
                 <div className="w-1/3 xl:w-1/2 flex items-center gap-12">
                 <Link href="/" className="flex items-center gap-3">
                     <Image src="/logo.png" alt="" width={24} height={24}/>
-                    <div className="text-2xl tracking-wide">LAMA</div>
+                    <div className="text-2xl tracking-wide">Dans Mon Panier</div>
                 </Link>
                 <div className="hidden xl:flex gap-4">
-                    <Link href="/">Homepage</Link>
-                    <Link href="/">Shop</Link>
-                    <Link href="/">Deals</Link>
-                    <Link href="/">About</Link>
+                    <Link href="/">Maison</Link>
+                    <Link href="/">Échoppe</Link>
+                    <Link href="/">Vente</Link>
+                    <Link href="/">A&nbsp;propos</Link>
                     <Link href="/">Contact</Link>
                 </div>
                 </div>
@@ -39,5 +39,5 @@ const Navbar = () => {
         </div>
     )
   }
-  
+
   export default Navbar

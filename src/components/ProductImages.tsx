@@ -4,10 +4,10 @@ import Image from "next/image"
 import { useState } from "react"
 
 const images = [
-  { id: 1, url:"https://images.pexels.com/photos/1647662/pexels-photo-1647662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},
-  { id: 2, url:"https://images.pexels.com/photos/4112601/pexels-photo-4112601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},
-  { id: 3, url:"https://images.pexels.com/photos/3935324/pexels-photo-3935324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"},
-  { id: 4, url:"https://images.pexels.com/photos/2079294/pexels-photo-2079294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}
+  { id: 1, url:"https://images.pexels.com/photos/4207778/pexels-photo-4207778.jpeg?auto=compress&cs=tinysrgb&w=600"},
+  { id: 2, url:"https://images.pexels.com/photos/4198139/pexels-photo-4198139.jpeg?auto=compress&cs=tinysrgb&w=600"},
+  { id: 3, url:"https://images.pexels.com/photos/4207793/pexels-photo-4207793.jpeg?auto=compress&cs=tinysrgb&w=600"},
+  { id: 4, url:"https://images.pexels.com/photos/4207790/pexels-photo-4207790.jpeg?auto=compress&cs=tinysrgb&w=600"}
 ]
 
 const ProductImages = () => {

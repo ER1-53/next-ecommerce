@@ -8,8 +8,8 @@ import Navbar from "@/components/Navbar"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lama Dev E-Commerce Application",
-  description: "A complete e-commerce application with Next.js and Wix",
+  title: "Dans mon panier",
+  description: "E-commerce en nextJS suivi du tuto lamaDev",
 };
 
 export default function RootLayout({
