@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="text-2xl tracking-wide">Dans Mon Panier</div>
           </Link>
           <p className="">
-            79 Chemin de l'Orgerie, Saint-Ouen-des-Toits, 53410, France
+            79 Chemin de l&rsquo;Orgerie, Saint-Ouen-des-Toits, 53410, France
           </p>
           <span className="font-semibold">Cremey.erwan@gmail.com</span>
           <span className="font-semibold">+33 06 20 64 68 03</span>
